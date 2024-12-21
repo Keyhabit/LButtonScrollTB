@@ -4,7 +4,8 @@ Scroll by holding down the primary button on your pointing device without losing
 
 This is intended to be used with finger-operated trackballs to scroll by holding down the thumb button.
 
-Works on Windows only and requires you to install Autohotkey v1.x. Unpack the .zip file to a folder somewhere and run LButtonScrollTB.ahk.
+Installation:
+Works on Windows only and requires you to install Autohotkey v1.x. Unpack the .zip file to a folder somewhere and run LButtonScrollTB.ahk. The other files are two Autohotkey dependencies and an icon file to be shown while in scroll mode.
 
 Operation:
 - Hold down the primary / left trackball (mouse) button and drag the mouse pointer in any direction for a distance of 50 pixel to engage auto-scroll. Scrolling mode will then begin automatically and will continue until you release the button.
